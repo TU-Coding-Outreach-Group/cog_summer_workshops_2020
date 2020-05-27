@@ -1,1 +1,1 @@
-# cog_summer_workshops_2020
+# COG Summer Workshops 2020
