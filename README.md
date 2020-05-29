@@ -1,4 +1,5 @@
 # COG Summer Workshops 2020
+The COG summer workshops will focus on a specific research skill or topic and aim to have participants actively involved. These workshops try to be as hands-on as possible with the goal of teaching new skills and techniques to people who already have some coding experience. For attendees to get the most out of the workshops, they should ideally already have some basic coding experience (i.e., be able to run an analysis in at least one coding language). People new to coding are welcome to attend but may not receive the adequate help needed to follow along with the content. If you would like to learn some basic coding, we have a [list of tutorials](https://github.com/TU-Coding-Outreach-Group/Tutorials/blob/master/index.md) for various programming languages.
 
 ## Agenda
 | Date        | Workshop                               | Presenter  |
