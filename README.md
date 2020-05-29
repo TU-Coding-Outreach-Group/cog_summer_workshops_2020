@@ -16,7 +16,7 @@ Workshops are on Fridays in June and July from 12pm to 1pm
 | 07/31/20    | Representational similarity analysis   | Iva Brunec |
 
 ## Getting Started
-Each workshop will list the necessary pre-requesites in their respective README.md files, but here is some software we recommend you install before the workshops[^1]:
+Each workshop will list the necessary pre-requesites in their respective README.md files, but here is some software we recommend you install before the workshops<sup>*</sup>:
 - A command-line shell (i.e. Bash)
 - A text editor you're comfortable with (Atom, VSCode, etc.)
 - Python 3
@@ -25,7 +25,7 @@ Each workshop will list the necessary pre-requesites in their respective README.
 
 The majority of these workshops will be faciliated using R or Jupyter Notebooks (a python notebook system). We recommend that workshop attendees download and install [Anaconda](https://www.anaconda.com/products/individual) for Python 3.7 as it includes R, R Studio, Python, Jupyter Notebooks, and a whole host of other libraries and packages that will be used throughout the workshops.
 
-[^1]: While most if not all of these tools are available on Windows PCs, we are currently most familiar with using them in the Mac OS. Anaconda is available for download for both PC and Mac.
+*: While most if not all of these tools are available on Windows PCs, we are currently most familiar with using them in the Mac OS. Anaconda is available for download for both PC and Mac.
 
 <br>
 COG is organized by Temple University graduate students [Liz Beard](https://github.com/elizabethbeard) and [Haroon Popal](https://github.com/hspopal)
