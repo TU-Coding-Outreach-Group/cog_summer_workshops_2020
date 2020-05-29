@@ -13,6 +13,6 @@ Workshops will be on Fridays in June and July from 12pm to 1pm
 | 07/10/20    | JavaScript and jsPsych                 | Vaidya Viswanathan & Craig Williams |
 | 07/17/20    | Psychopy                               | Susan Benear & Katie Jobson |
 | 07/24/20    | Neuroimaging in Python                 | Jeff Dennison |
-| 07/31/20    | Representational Similarity Analysis   | Iva Brunec |
+| 07/31/20    | Representational similarity analysis   | Iva Brunec |
 
 COG is organized by Temple University graduate students [Liz Beard](https://github.com/elizabethbeard) and [Haroon Popal](https://github.com/hspopal)
