@@ -5,7 +5,7 @@ The COG summer workshops will focus on a specific research skill or topic and ai
 Workshops will be on Fridays in June and July from 12pm to 1pm
 | Date        | Workshop                               | Presenter  |
 | ----------- |:--------------------------------------:| -----------|
-| 06/05/20    | Jupyter Notebook                       | Kim Nguyen |
+| 06/05/20    | [Jupyter Notebook](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/jupyter-notebook)                       | Kim Nguyen |
 | 06/12/20    | Git/Github                             | Michelle Chiu |
 | 06/19/20    | Using publicly available datasets      | Haroon Popal |
 | 06/26/20    | Plotting data in R                     | Cristina Wilson |
