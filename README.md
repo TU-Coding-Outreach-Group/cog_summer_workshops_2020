@@ -2,7 +2,7 @@
 
 ## Agenda
 | Date        | Workshop                               | Presenter  |
-| ----------- |:--------------------------------------:| ----------:|
+| ----------- |:--------------------------------------:| -----------|
 | 06/05/20    | Jupyter Notebook                       | Kim Nguyen |
 | 06/12/20    | Git/Github                             | Michelle Chiu |
 | 06/19/20    | Using publicly available datasets      | Haroon Popal |
