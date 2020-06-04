@@ -2,7 +2,7 @@
 This workshop is based on materials by [Software Carpentry](https://www.software-carpentry.org/)
 
 ## Description
-This workshop will serve as an introduction to **Git**and **GitHub**. [Git](https://git-scm.com/book/en/v2) largely operates as a version control system that tracks changes in your code -- this code (or set of codes) can then be hosted on GitHub, an online platform that is widely used to store/review code and collaborate on open-source projects, among other things.
+This workshop will serve as an introduction to **Git** and **GitHub**. [Git](https://git-scm.com/book/en/v2) largely operates as a version control system that tracks changes in your code -- this code (or set of codes) can then be hosted on GitHub, an online platform that is widely used to store/review code and collaborate on open-source projects, among other things.
 ## To-do before the workshop
 1. Make sure your [web browser](https://help.github.com/en/articles/supported-browsers) is supported by GitHub.
 2. [Sign up](https://github.com/join) for a free GitHub user account if you don't already have one. You can ignore the pricing options that appear after signing up; I personally find that the basic account suffices for most, if not all, of my needs as an academic researcher. GitHub will send an email asking you to verify the email address provided -- **make sure to verify your email address before continuing to step 3!**
