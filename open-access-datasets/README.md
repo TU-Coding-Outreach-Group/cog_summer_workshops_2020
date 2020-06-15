@@ -1,4 +1,5 @@
 # Description
+__This is still being edited. Check back soon for the full information.__
 This workshop will cover what open access datasets are, where to find them, and will provide some suggestions on how to deal with them.
 
 # Prerequisites
