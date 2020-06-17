@@ -6,7 +6,7 @@ Workshops are on Fridays in June and July from 12pm to 1pm
 | Date        | Workshop                             | Presenter  |
 | :-----------: |:------------------------------------:| :-----------:|
 | 06/05/20    | [Jupyter Notebook](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/jupyter-notebook)                       | Kim Nguyen |
-| 06/12/20    | Git/Github                             | Michelle Chiu |
+| 06/12/20    | [Git/Github](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/git-github)                             | Michelle Chiu |
 | 06/19/20    | Using publicly available datasets      | Haroon Popal |
 | 06/26/20    | Plotting data in R                     | Cristina Wilson |
 | 07/03/20    | NO WORKSHOPS                           
@@ -28,4 +28,4 @@ The majority of these workshops will be faciliated using R or Jupyter Notebooks 
 <sup>*</sup>: While most if not all of these tools are available on Windows PCs, we are currently most familiar with using them in the Mac OS. Anaconda is available for download for both PC and Mac.
 
 <br>
-COG is organized by Temple University graduate students [Liz Beard](http://github.com/elizabethbeard) and [Haroon Popal](http://github.com/hspopal)
+COG is organized by Temple University graduate students [Liz Beard](https://github.com/elizabethbeard) and [Haroon Popal](https://github.com/hspopal) 
