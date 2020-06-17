@@ -28,4 +28,4 @@ The majority of these workshops will be faciliated using R or Jupyter Notebooks 
 
 <sup>*</sup>: While most if not all of these tools are available on Windows PCs, we are currently most familiar with using them in the Mac OS. Anaconda is available for download for both PC and Mac.
 
-COG is organized by Temple University graduate students @elizabethbeard and [Haroon Popal](https://github.com/hspopal) 
+COG is organized by Temple University graduate students [Liz Beard](https://github.com/elizabethbeard) and [Haroon Popal](https://github.com/hspopal) 
