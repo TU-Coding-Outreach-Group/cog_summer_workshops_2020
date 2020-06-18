@@ -1,5 +1,4 @@
 # Description
-__This is still being edited. Check back soon for the full information.__
 This workshop will cover what open access datasets are, where to find them, and will provide some suggestions on how to deal with them. During the workshop, we will be playing around with some behavioral data from the Human Connectome Project. The workshop will go through the steps to obtain this dataset. 
 
 # Prerequisites
