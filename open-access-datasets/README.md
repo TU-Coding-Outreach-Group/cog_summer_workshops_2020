@@ -10,4 +10,6 @@ This workshop will cover what open access datasets are, where to find them, and 
 2. Download the workshop material.
     1. This can be done manually by downloading the entire [COG Summer Workshops 2020 repo](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020)
     2. Or you can use git:
-        1. Up
+        1. Open a bash terminal
+        2. Run `git remote add upstream https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020.git`
+        3. Run the commands from [this post](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork), starting at step 3.
