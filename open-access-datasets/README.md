@@ -8,6 +8,6 @@ This workshop will cover what open access datasets are, where to find them, and 
 # To-do Before Workshop
 1. Install the [R kernal](https://irkernel.github.io/installation/) for Jupyter. This will allow you to use R with Jupyter
 2. Download the workshop material.
-  1. This can be done manually by downloading the entire [COG Summer Workshops 2020 repo](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020)
+    1. This can be done manually by downloading the entire [COG Summer Workshops 2020 repo](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020)
   2. Or you can use git:
     1. Up
