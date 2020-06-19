@@ -17,3 +17,36 @@ This workshop will cover what open access datasets are, where to find them, and 
             1. `git add open-access-datasets`
             2. `git commit -m "update repo with new workshop materials` or whatever you want this message to be
             3. `git push`
+
+
+__Note: To more easily keep an updated list of open access datasets, a comprehensive list will be kept below. This list will be more frequenctly updated than the list in the Jupyter notebook.__
+
+# Open Access Datasets
+* [OpenNeuro](https://openneuro.org/)
+    * Database of publically available single-study datasets
+* [Brain Genomics Superstruct Project (GSP)](https://dataverse.harvard.edu/dataverse/GSP)<img src=images/gsp.jpg />
+    * A collection of neuroimaing, behavior, cognitive, and personality data for over 1,500 human participants
+    * This dataset was used in [Yeo et al., 2011](https://journals.physiology.org/doi/full/10.1152/jn.00338.2011) to create the widely used Yeo 7-network atlas
+* [Adolescent Brain Cognitive Development (ABCD)](https://nda.nih.gov/abcd)
+    * Longitudinal study of brain development and child health from 21 sites
+    * Measured social, emotional, cognitive development, as well as health and environmental outcomes
+    * This dataset is somewhat notorious for its various issues
+        * The imaging data is very troublesome, as it is from different sites, with different scanners, scanner software, head-coils, etc.
+* [Human Connectome Project (HCP)](https://www.humanconnectome.org/study/hcp-young-adult)![](images/hcp_mmp.PNG)
+    * The HCP young adult dataset was collected on the same MRI scanner model across three different sites
+    * It is very high quality considering the multi-site nature of the dataset and the large sample size (1200)
+        * The researchers took careful consideration of the issues with multi-site studies and ensured that all studies were using the same type of scanner, scanner software, head-coil, and protocol
+    * Includes multi-modal data from fMRI tasks, fMRI resting state, DWI, and high resolution T1 structural scans, along with behavioral and cognitive data
+    * Most of the data is available fully preprocessed via their [Minimal Preprocessing Pipeline](https://pubmed.ncbi.nlm.nih.gov/23668970/)
+    * Additional HCP datasets
+        * [HCP Development](https://www.humanconnectome.org/study/hcp-lifespan-development)
+        * [HCP Aging](https://www.humanconnectome.org/study/hcp-lifespan-aging)
+        * Human disease (Alzheimer's, anxiety and depression, etc.) datasets to come
+    
+* [Autism Brain Imaging Data Exchange (ABIDE)](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
+* [Open Access Series of Imaging Studies (OASIS)](https://www.oasis-brains.org/)
+* [Alzheimer's Disease Neuroimaing Initiative (ADNI)](http://adni.loni.usc.edu/)
+* [Amsterdam Oen MRI Collection (AOMIC)](https://nilab-uva.github.io/AOMIC.github.io/)
+* [Open psychological datasets](https://docs.google.com/spreadsheets/d/1ejOJTNTL5ApCuGTUciV0REEEAqvhI2Rd2FCoj7afops/edit#gid=0)
+    * Another, more comprehensive list of open access datasets, that also include non-imaging psychology datasets
+
