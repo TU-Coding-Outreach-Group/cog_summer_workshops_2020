@@ -24,7 +24,7 @@ __Note: To more easily keep an updated list of open access datasets, a comprehen
 # Open Access Datasets
 * [OpenNeuro](https://openneuro.org/)
     * Database of publically available single-study datasets
-* [Brain Genomics Superstruct Project (GSP)](https://dataverse.harvard.edu/dataverse/GSP)<img src=images/gsp.jpg />
+* [Brain Genomics Superstruct Project (GSP)](https://dataverse.harvard.edu/dataverse/GSP)
     * A collection of neuroimaing, behavior, cognitive, and personality data for over 1,500 human participants
     * This dataset was used in [Yeo et al., 2011](https://journals.physiology.org/doi/full/10.1152/jn.00338.2011) to create the widely used Yeo 7-network atlas
 * [Adolescent Brain Cognitive Development (ABCD)](https://nda.nih.gov/abcd)
@@ -32,7 +32,7 @@ __Note: To more easily keep an updated list of open access datasets, a comprehen
     * Measured social, emotional, cognitive development, as well as health and environmental outcomes
     * This dataset is somewhat notorious for its various issues
         * The imaging data is very troublesome, as it is from different sites, with different scanners, scanner software, head-coils, etc.
-* [Human Connectome Project (HCP)](https://www.humanconnectome.org/study/hcp-young-adult)![](images/hcp_mmp.PNG)
+* [Human Connectome Project (HCP)](https://www.humanconnectome.org/study/hcp-young-adult)
     * The HCP young adult dataset was collected on the same MRI scanner model across three different sites
     * It is very high quality considering the multi-site nature of the dataset and the large sample size (1200)
         * The researchers took careful consideration of the issues with multi-site studies and ensured that all studies were using the same type of scanner, scanner software, head-coil, and protocol
