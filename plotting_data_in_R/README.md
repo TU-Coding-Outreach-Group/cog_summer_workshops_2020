@@ -12,6 +12,8 @@ The raw data from the FGT has already been filtered and formatted for plotting. 
 
 If you have never used ggplot before, I would recommend looking through my [tutorial from the 2019 cog summer workshop on exploratory plotting](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2019/blob/master/plotting_data_in_R/Exploratory%20Plotting%20in%20R%20Tutorial.ipynb). It focuses on plotting simple histograms, bar charts, and scatter plots.
 
+In addition, you should have Rstudio installed, as this workshop will use R projects.
+
 
 
 
