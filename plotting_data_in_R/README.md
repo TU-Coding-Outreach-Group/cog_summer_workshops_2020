@@ -1,6 +1,7 @@
 # Description
 
-This tutorial will show you how to plot repeated measures data in R (using ggplot), with a particular focus on visualizing uncertainty in data. The current tutorial builds upon the basics of ggplot, showing you how to construct more complex plots for improved understanding of data uncertainty. This style of plotting is “on- trend” academically.
+This tutorial will show you how to plot repeated measures data in R (using ggplot), with a particular focus on visualizing uncertainty in data. The current tutorial builds upon the basics of ggplot, showing you how to construct more complex plots for improved understanding of data uncertainty. This style of plotting is “on- trend” academically. <br>
+
 The tutorial uses data from a behavioral decision task – the Framed Gambling Task (FGT). The dependent variable is proportion of gambles, the within-subjects independent variables are trial block (1-4) and decision framing (gain, loss), and the between-subjects independent variable is feedback condition (full, minimal, partial). The code provided can be relatively easily adapted to any research with a continuous DV and a repeated measures IV.
 If you are interested in learning more about the properties of the FGT, see
 https://doi.org/10.1371/journal.pone.0204694
@@ -14,9 +15,9 @@ https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2019/blob/maste
 
 
 # Additional Resources
-* Installing libraries from GitHub: https://kbroman.org/pkg_primer/pages/github.html
-* Describes implantation of gghalves for half boxplots, violins, and points.
-https://erocoar.github.io/gghalves/
-* Repeated measures plotting tutorial that inspired the current tutorial https://github.com/jorvlan/open-visualizations/blob/master/R/repmes_tutorial_R.pdf
-* Describes look of different plotting themes and how to create and re-use your own custom theme. https://chrischizinski.github.io/SNR_R_Group/2016-10-05-Themes_Facets
-* Shape codes. http://www.cookbook-r.com/Graphs/Shapes_and_line_types/
+* [Installing libraries from GitHub](https://kbroman.org/pkg_primer/pages/github.html)
+* [Describes implantation of gghalves for half boxplots, violins, and points](
+https://erocoar.github.io/gghalves/)
+* [Repeated measures plotting tutorial that inspired the current tutorial](https://github.com/jorvlan/open-visualizations/blob/master/R/repmes_tutorial_R.pdf)
+* [Describes look of different plotting themes and how to create and re-use your own custom theme](https://chrischizinski.github.io/SNR_R_Group/2016-10-05-Themes_Facets)
+* [Shape codes](http://www.cookbook-r.com/Graphs/Shapes_and_line_types/)
