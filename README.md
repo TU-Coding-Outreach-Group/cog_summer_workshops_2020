@@ -10,7 +10,7 @@ Workshops are on Fridays in June and July from 12pm to 1pm
 | 06/19/20    | [Using publicly available datasets](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/open-access-datasets)      | Haroon Popal |
 | 06/26/20    | [Plotting data in R](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/plotting-data-in-r)                     | Cristina Wilson |
 | 07/03/20    | NO WORKSHOPS                           
-| 07/10/20    | Psychopy                               | Susan Benear & Katie Jobson |
+| 07/10/20    | [Psychopy](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/psychopy)                               | Susan Benear & Katie Jobson |
 | 07/17/20    | JavaScript and jsPsych                 | Vaidya Viswanathan & Craig Williams |
 | 07/24/20    | Neuroimaging in Python                 | Jeff Dennison |
 | 07/31/20    | NO WORKSHOPS
