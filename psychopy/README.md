@@ -2,7 +2,7 @@
 
 ## Description
 
-This workshop will cover how to use [PsychoPy] (https://www.psychopy.org/index.html) to build psychological experiments using both the Builder and the Coder.
+This workshop will cover how to use [PsychoPy](https://www.psychopy.org/index.html) to build psychological experiments using both the Builder and the Coder.
 
 ## Prerequisites
 
@@ -12,6 +12,6 @@ This workshop will cover how to use [PsychoPy] (https://www.psychopy.org/index.h
 
 ## Before the Workshop
 
-1. Install [PsychoPy] (https://www.psychopy.org/download.html) either through the command line, or as a standalone. There are instructions for both methods on the linked PsychoPy download page.
+1. Install [PsychoPy](https://www.psychopy.org/download.html) either through the command line, or as a standalone. There are instructions for both methods on the linked PsychoPy download page.
 2. Install the required packages for the Coder portion of the workshop - 'pip install' random, os, PIL, pandas
 3. Download the 'stim' folder from the TU COG Github. This is the folder containing the necessary files for creating our example tasks in both the Builder and Coder.
