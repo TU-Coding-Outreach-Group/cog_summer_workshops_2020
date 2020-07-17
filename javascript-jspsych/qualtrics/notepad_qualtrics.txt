@@ -1,0 +1,90 @@
+1) inside the addOnLoad function of the intro question, add the following
+
+	function shuffle(array){
+			var currentIndex = array.length;
+			var tempValue, randomIndex;
+		
+			//Shuffling algorithm
+			while(currentIndex !== 0){
+				// Pick an element
+				randomIndex = Math.floor(Math.random()*currentIndex);
+				//Decrement Counter
+				currentIndex -=1;
+				//Swap Random element with Current Element
+				tempValue = array[currentIndex];
+				array[currentIndex] = array[randomIndex];
+				array[randomIndex] = tempValue;
+			}
+		return array;
+		}
+	
+	// Our task - pick up three sad images, three neutral images and three happy images in some random order
+	var sad_img = [1,2,3];
+	var neutral_img = [1,2,3];
+	var happy_img = [1,2,3];
+	shuffle(sad_img);
+	shuffle(neutral_img);
+	shuffle(happy_img);
+	
+	// Go through the sad_img array and set the corresponding img url from your graphics library
+	for(var i =0; i<sad_img.length; i++){
+		if(sad_img[i] ==1){
+			Qualtrics.SurveyEngine.setEmbeddedData("S"+(i+1),"https://fox.az1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_eQdboLstjzvVZ7D");
+		}
+		if(sad_img[i] ==2){
+			Qualtrics.SurveyEngine.setEmbeddedData("S"+(i+1),"https://fox.az1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bfLf3KxE8Q1njA9");
+		}
+		if(sad_img[i] ==3){
+			Qualtrics.SurveyEngine.setEmbeddedData("S"+(i+1),"https://fox.az1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_6JqpRvs1QBUOyr3");
+		}
+	}		
+	// Go through the happy_img array and set the corresponding img url from your graphics library
+	for(var i =0; i<happy_img.length; i++){
+		if(happy_img[i] ==1){
+			Qualtrics.SurveyEngine.setEmbeddedData("H"+(i+1),"https://fox.az1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_86oFeXcpMLCHSL3");
+		}
+		if(happy_img[i] ==2){
+			Qualtrics.SurveyEngine.setEmbeddedData("H"+(i+1),"https://fox.az1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0chvlUK6mk7gbMF");
+		}
+		if(happy_img[i] ==3){
+			Qualtrics.SurveyEngine.setEmbeddedData("H"+(i+1),"https://fox.az1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cHDhfmmdyfjwg1n");
+		}
+	}
+	// Go through the neutral_img array and set the corresponding img url from your graphics library
+	for(var i =0; i<neutral_img.length; i++){
+		if(neutral_img[i] ==1){
+			Qualtrics.SurveyEngine.setEmbeddedData("N"+(i+1),"https://fox.az1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_d7uintaOMf8ynJj");
+		}
+		if(neutral_img[i] ==2){
+			Qualtrics.SurveyEngine.setEmbeddedData("N"+(i+1),"https://fox.az1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_3E0NChremWrBTGl");
+		}
+		if(neutral_img[i] ==3){
+			Qualtrics.SurveyEngine.setEmbeddedData("N"+(i+1),"https://fox.az1.qualtrics.com/ControlPanel/Graphic.php?IM=IM_0OQ9DhY3JflQB7f");
+		}
+
+	}
+
+
+2) Inside each of the actual questions, add the following under addOnLoad function.....
+	
+	// You can also change the question text - No prepend option available here
+	var imgURL = Qualtrics.SurveyEngine.getEmbeddedData("S1");
+	// We can even do cool things like take only a  few elements of a string and so on.
+	var imgURL2 = imgURL;
+	imgURL2 = imgURL2.slice(-10);
+	jQuery(".QuestionText").append("<br> This is the image's URL <br>"+imgURL +"<br>"+imgURL2);
+	
+
+... and the following inside the addOnReady function....
+//Add the selected image into the question
+
+	var c = this.questionContainer;    
+	
+	//You can set the imgURL 
+	var imgURL = Qualtrics.SurveyEngine.getEmbeddedData("S1");///change to S2,S3,N1,N2...etc for other questions
+
+	var img = QBuilder('img',{src:imgURL, style:"max-width:100%" , margin:"auto"});     
+	var ic = QBuilder('div',{style:"text-align:center"},[img]);    
+	// Both append and prepend are options available to you
+	$(c).prepend(ic);
+	//$(c).append(ic);
