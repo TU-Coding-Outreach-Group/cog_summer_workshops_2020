@@ -12,7 +12,7 @@ Workshops are on Fridays in June and July from 12pm to 1pm
 | 07/03/20    | NO WORKSHOPS                           
 | 07/10/20    | [Psychopy](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/psychopy)                               | Susan Benear & Katie Jobson |
 | 07/17/20    | [JavaScript and jsPsych](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/javascript-jspsych)                 | Vaidya Viswanathan & Craig Williams |
-| 07/24/20    | Neuroimaging in Python                 | Jeff Dennison |
+| 07/24/20    | [Neuroimaging in Python](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/python-neuroimaging)                 | Jeff Dennison |
 | 07/31/20    | NO WORKSHOPS
 | 08/07/20    | Representational similarity analysis   | Iva Brunec |
 
