@@ -1,0 +1,7 @@
+# files
+*.gdoc
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.Rproj.user
+javascript-jspsych/jspsych/jspsych-6.1.0/*
+psychopy/COG-2020_summerWorkshop-PsychoPy.zip
