@@ -14,7 +14,7 @@ Workshops are on Fridays in June and July from 12pm to 1pm
 | 07/17/20    | [JavaScript and jsPsych](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/javascript-jspsych)                 | Vaidya Viswanathan & Craig Williams |
 | 07/24/20    | [Neuroimaging in Python](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/python-neuroimaging)                 | Jeff Dennison |
 | 07/31/20    | NO WORKSHOPS
-| 08/07/20    | Representational similarity analysis   | Iva Brunec |
+| 08/07/20    | [Representational similarity analysis](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2020/tree/master/representational-similarity-analysis)   | Iva Brunec |
 
 ## Getting Started
 Each workshop will list the necessary pre-requesites in their respective README.md files, but here is some software we recommend you install before the workshops<sup>*</sup>:
